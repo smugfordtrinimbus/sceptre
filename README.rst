@@ -105,6 +105,7 @@ CLI::
   --help                Show this message and exit.
 
   Commands:
+  mugford-add-function      This should show
   continue-update-rollback  Roll stack back to working state.
   create-change-set         Creates a change set.
   create-stack              Creates the stack.
